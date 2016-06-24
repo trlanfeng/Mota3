@@ -1,0 +1,46 @@
+{
+    "chengjiu": [
+        { "id": 0,  "content": "第一桶金", "comment":"金币大于100", "isGet": false },
+        { "id": 1,  "content": "升职加薪", "comment":"金币大于500", "isGet": false },
+        { "id": 2,  "content": "当上总经理", "comment":"金币大于1000", "isGet": false },
+        { "id": 3,  "content": "出任CEO", "comment":"金币大于2000", "isGet": false },
+        { "id": 4,  "content": "迎娶白富美", "comment":"金币大于5000", "isGet": false },
+        { "id": 5,  "content": "走向人生巅峰", "comment":"金币大于10000", "isGet": false },
+        
+        { "id": 6,  "content": "", "comment":"开启20层所有黄门", "isGet": false },
+        { "id": 7,  "content": "", "comment":"开启20层所有蓝门", "isGet": false },
+        { "id": 8,  "content": "", "comment":"开启20层所有红门", "isGet": false },
+        { "id": 9,  "content": "", "comment":"开启20层所有门", "isGet": false },
+        
+        { "id": 10, "content": "怪物猎人", "comment":"斩杀50只怪物", "isGet": false },
+        { "id": 11, "content": "百斩猎人", "comment":"斩杀100只怪物", "isGet": false },
+        { "id": 12, "content": "一骑当千", "comment":"斩杀200只怪物", "isGet": false },
+        { "id": 13, "content": "万夫莫敌", "comment":"斩杀500只怪物", "isGet": false },
+        { "id": 14, "content": "至尊魔神", "comment":"斩杀所有怪物", "isGet": false },
+        
+        { "id": 15, "content": "六六大顺", "comment":"66把黄钥匙，66把蓝钥匙，66把红钥匙", "isGet": false },
+        { "id": 16, "content": "钥匙多到没朋友", "comment":"99把黄钥匙，99把蓝钥匙，99把红钥匙", "isGet": false },
+        { "id": 17, "content": "似乎很认真", "comment":"没有跳过片头剧情", "isGet": false },
+        { "id": 18, "content": "破墙达人", "comment":"拆掉所有暗墙", "isGet": false },
+        { "id": 19, "content": "休息更重要", "comment":"0-6点游戏", "isGet": false },
+        
+        { "id": 20, "content": "小橹怡情", "comment":"观看10张美女图片", "isGet": false },
+        { "id": 21, "content": "大橹伤身", "comment":"观看20张美女图片", "isGet": false },
+        { "id": 22, "content": "强橹灰飞烟灭", "comment":"观看50张美女图片", "isGet": false },
+        
+        { "id": 23, "content": "清心寡欲", "comment":"不向精灵索取物品", "isGet": false },
+        { "id": 24, "content": "知足常乐", "comment":"向精灵索取一件物品", "isGet": false },
+        { "id": 25, "content": "见好就收", "comment":"向精灵索取两件物品", "isGet": false },
+        { "id": 26, "content": "贪得无厌", "comment":"向精灵索取三件物品", "isGet": false },
+		{ "id": 27, "content": "惹火烧身", "comment":"向精灵无耻的、不停的索取", "isGet": false },
+
+        { "id": 27, "content": "强橹灰飞烟灭", "comment":"观看50张美女图片", "isGet": false },
+        { "id": 28, "content": "强橹灰飞烟灭", "comment":"观看50张美女图片", "isGet": false },
+        { "id": 29, "content": "强橹灰飞烟灭", "comment":"观看50张美女图片", "isGet": false },
+        { "id": 30, "content": "强橹灰飞烟灭", "comment":"观看50张美女图片", "isGet": false },
+        { "id": 31, "content": "强橹灰飞烟灭", "comment":"观看50张美女图片", "isGet": false },
+        { "id": 32, "content": "强橹灰飞烟灭", "comment":"观看50张美女图片", "isGet": false },
+        { "id": 33, "content": "强橹灰飞烟灭", "comment":"观看50张美女图片", "isGet": false }
+
+    ]
+}
