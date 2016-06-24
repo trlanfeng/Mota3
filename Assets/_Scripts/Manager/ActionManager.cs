@@ -50,8 +50,7 @@ public class ActionManager : MonoBehaviour
     public void talk(Talk talk)
     {
         AuM.playAudio("talk");
-        //DM.conversation = DiaQEngine.Instance.graphManager.GetGraphByName(talk.graphName);
-        //DiaQEngine.Instance.graphManager.BeginGraph(DM.conversation);
+        Dialoguer.StartDialogue(0);
         UM.state = "dialog";
         if (talk.destroyOnFinish)
         {

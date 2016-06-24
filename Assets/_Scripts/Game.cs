@@ -19,6 +19,7 @@ public class Game : MonoBehaviour
 
     void Start()
     {
+        Dialoguer.Initialize();
         if (PlayerPrefs.GetInt("currentSaveData") != 0)
         {
             int x = PlayerPrefs.GetInt("currentSaveData");
