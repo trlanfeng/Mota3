@@ -6,8 +6,11 @@
 *.csproj
 *.unityproj
 *.sln
+<<<<<<< HEAD
 /Export
 /.vs
 /MazeGenerate.CSharp.csproj
 /MazeGenerate.CSharp.Editor.csproj
 /MazeGenerate.sln
+=======
+>>>>>>> 12409899d0104e6b034477c3401a1b308f0be082
