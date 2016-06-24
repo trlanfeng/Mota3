@@ -442,6 +442,7 @@ public class UIManager : MonoBehaviour
 	}
     public void buttonMenu()
     {
+        Debug.Log("456");
         if (state != "dialog" && state != "menu")
         {
             state = "menu";

@@ -70,15 +70,15 @@ public class sceneStart : MonoBehaviour
     }
     public void buttonDefault()
     {
-        panelMenu.DOAnchorPosX(0, 0.2f);
+        panelMenu.DOAnchorPosX(0, 0.5f).SetEase(Ease.OutBack);
     }
     public void buttonStart()
     {
-        panelMenu.DOAnchorPosX(position_left, 0.2f);
+        panelMenu.DOAnchorPosX(position_left, 0.5f).SetEase(Ease.OutBack);
     }
     public void buttonSetting()
     {
-        panelMenu.DOAnchorPosX(position_right, 0.2f);
+        panelMenu.DOAnchorPosX(position_right, 0.5f).SetEase(Ease.OutBack);
     }
     public void startGame(int saveDataID)
     {
@@ -121,12 +121,12 @@ public class sceneStart : MonoBehaviour
     }
     public void showAchievementsPanel()
     {
-        panelStart.DOAnchorPosY(position_up, 0.2f);
-        panelAchievements.DOAnchorPosY(position_center, 0.2f);
+        panelStart.DOAnchorPosY(position_up, 0.2f).SetEase(Ease.InSine);
+        panelAchievements.DOAnchorPosY(position_center, 0.2f).SetEase(Ease.InSine);
     }
     public void hideAchievementsPanel()
     {
-        panelStart.DOAnchorPosY(position_center, 0.2f);
-        panelAchievements.DOAnchorPosY(position_down, 0.2f);
+        panelStart.DOAnchorPosY(position_center, 0.2f).SetEase(Ease.InSine);
+        panelAchievements.DOAnchorPosY(position_down, 0.2f).SetEase(Ease.InSine);
     }
 }
